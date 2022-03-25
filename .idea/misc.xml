@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/layout-land/activity_main.xml" value="0.5" />
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/layout/activity_daily_forecast.xml" value="0.18925831202046037" />
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/layout/daily_weather_entry.xml" value="0.41112828438948995" />
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/layout/hourly_weather_entry.xml" value="0.67" />
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/menu/opt_menu.xml" value="0.3625" />
+        <entry key="..\:/CS442_Projects/OpenWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3635" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
